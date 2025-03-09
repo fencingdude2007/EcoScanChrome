@@ -1,0 +1,2 @@
+# EcoScanChrome
+EcoScan Chrome Extension
