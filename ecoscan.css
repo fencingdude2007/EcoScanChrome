@@ -1,0 +1,11 @@
+.ecoscan-number {
+  color: #ff0000; /* Red for visibility */
+  font-weight: bold;
+  font-size: 12px;
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+  z-index: 10;
+  position: relative;
+  pointer-events: none; /* Prevent focus issues */
+}
